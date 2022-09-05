@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Evgeniya Podshibyakina.</h1>
 <h3 align="center">I'm fullstack node.js developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evgeniyapodshibyakina&label=Profile%20views&color=0e75b6&style=flat" alt="evgeniyapodshibyakina" /> </p>
 <p align='center'>
    <a href="https://www.linkedin.com/in/evgeniya-podshibyakina-8347b7a6/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats-evgeniyapodshibyakina.vercel.app/api/top-langs?username=evgeniyapodshibyakina&count_private=true&show_icons=true&locale=en&layout=compact" alt="evgeniyapodshibyakina" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-evgeniyapodshibyakina.vercel.app/api?username=evgeniyapodshibyakina&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="evgeniyapodshibyakina" /></p> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evgeniyapodshibyakina&label=Profile%20views&color=0e75b6&style=flat" alt="evgeniyapodshibyakina" /> </p>
