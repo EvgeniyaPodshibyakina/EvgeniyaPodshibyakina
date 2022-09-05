@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Evgeniya Podshibyakina.</h1>
-<h3 align="center">A fullstack node.js developer</h3>
+<h1 align="center">Hi, I'm Evgeniya Podshibyakina.</h1>
+<h3 align="center">I'm fullstack node.js developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgeniyapodshibyakina&label=Profile%20views&color=0e75b6&style=flat" alt="evgeniyapodshibyakina" /> </p>
-
-- 📫 How to reach me **evgeniya.podshibyakina@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align='center'>
+   <a href="https://www.linkedin.com/in/evgeniya-podshibyakina-8347b7a6/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/shusha989">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:evgeniya.podshibyakina@gmail.com'>evgeniya.podshibyakina@gmail.comm</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
