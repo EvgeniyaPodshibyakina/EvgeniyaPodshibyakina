@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evgeniyapodshibyakina&show_icons=true&locale=en&count-private=true&layout=compact" alt="evgeniyapodshibyakina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evgeniyapodshibyakina&count_private=true" alt="evgeniyapodshibyakina" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evgeniyapodshibyakina&count_private=true&show_icons=true&theme=tokyonight&" alt="evgeniyapodshibyakina" /></p> 
