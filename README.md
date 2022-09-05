@@ -9,7 +9,8 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:evgeniya.podshibyakina@gmail.com'>evgeniya.podshibyakina@gmail.comm</a>
+  <a href='mailto:evgeniya.podshibyakina@gmail.com'>evgeniya.podshibyakina@gmail.comm</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
