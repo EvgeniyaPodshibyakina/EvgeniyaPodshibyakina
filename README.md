@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Evgeniya Podshibyakina.</h1>
-<h3 align="center">I'm fullstack node.js developer</h3>
+<h3 align="center">I'm a fullstack node.js developer</h3>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/evgeniya-podshibyakina-8347b7a6/">
