@@ -18,6 +18,5 @@
 
 <p align="center">&nbsp;<img height=200 src="https://github-readme-stats-evgeniyapodshibyakina.vercel.app/api?username=evgeniyapodshibyakina&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="evgeniyapodshibyakina" />
 </p> 
-<p align="center"> <img height=140 src="https://github-readme-stats-evgeniyapodshibyakina.vercel.app/api/top-langs?username=evgeniyapodshibyakina&hide_border=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="evgeniyapodshibyakina" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=evgeniyapodshibyakina&label=Profile%20views&color=0e75b6&style=flat" alt="Evgeniya podshibyakina" /> </p>
