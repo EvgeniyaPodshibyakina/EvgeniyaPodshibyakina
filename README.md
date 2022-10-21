@@ -2,7 +2,7 @@
 <h3 align="center">I'm a fullstack node.js developer. I use this github profile for my pet projects</h3>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/evgeniya-podshibyakina-8347b7a6/">
+   <a href="https://www.linkedin.com/in/evgeniya-podshibyakina/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/shusha989">
