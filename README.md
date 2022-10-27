@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Evgeniya Podshibyakina.</h1>
-<h3 align="center">I'm a fullstack node.js developer. I use this github profile for my pet projects</h3>
+<h3 align="center">I'm a frontend developer.</h3>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/evgeniya-podshibyakina/">
@@ -13,7 +13,7 @@
    </a>
 </p>
 
-<p align='center'> My Tech Stack </p>
+<h3 align='center'> My Tech Stack </h3>
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
