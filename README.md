@@ -13,7 +13,7 @@
    </a>
 </p>
 
-<p align='center'>## My tech stack </p>
+<p align='center'> My Tech Stack </p>
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
