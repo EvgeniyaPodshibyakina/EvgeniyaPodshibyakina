@@ -13,7 +13,7 @@
    </a>
 </p>
 
-<h3 align='center'> My Tech Stack </h3>
+/* <h3 align='center'> My Tech Stack </h3>
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -27,4 +27,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequeize" **alt="Sequeize" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
-
+*/
